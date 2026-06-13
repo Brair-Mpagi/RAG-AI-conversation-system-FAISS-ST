@@ -1,4 +1,4 @@
-# MMU Campus AI Chatbot 🎓🤖
+# RAG-NLP-AI-Assistant 🎓🤖
 
 An intelligent, RAG-powered chatbot for **Multimedia University (MMU)** that answers student and staff queries about campus life, courses, staff, and events — using locally-hosted LLMs via **Ollama** for full data privacy.
 
