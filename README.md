@@ -1,10 +1,10 @@
-# RAG-NLP-AI-Assistant 🎓🤖
+# RAG-NLP-AI-Assistant
 
-An intelligent, RAG-powered chatbot for **Multimedia University (MMU)** that answers student and staff queries about campus life, courses, staff, and events — using locally-hosted LLMs via **Ollama** for full data privacy.
+An intelligent, RAG-powered chatbot for **(MMU)** that answers student and staff queries about campus life, courses, staff, and events — using locally-hosted LLMs via **Ollama** for full data privacy.
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```
 pjt-chatbot/
@@ -34,7 +34,7 @@ pjt-chatbot/
 
 ---
 
-## 🚀 Quick Start (Docker — Recommended)
+## Quick Start (Docker — Recommended)
 
 ### 1. Clone the repository
 ```bash
@@ -143,7 +143,7 @@ mysql -u root -p < database/schema.sql
 
 ---
 
-## 🧠 Vector Store (RAG)
+## Vector Store (RAG)
 
 The FAISS vector index is **not included in the repository** (large binary files).  
 After cloning, build it from your scraped data:
@@ -188,7 +188,7 @@ See [`LAN_ACCESS.md`](LAN_ACCESS.md) for full instructions.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feat/your-feature`
@@ -200,4 +200,4 @@ See [`LAN_ACCESS.md`](LAN_ACCESS.md) for full instructions.
 
 ## 📄 License
 
-This project is developed as an academic research project. See your institution's guidelines for usage terms.
+This project is developed as an academic research project. 
