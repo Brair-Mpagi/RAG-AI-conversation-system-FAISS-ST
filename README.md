@@ -72,6 +72,8 @@ This spins up:
 | **Companion app** | http://localhost:5174 |
 | **MariaDB** | `127.0.0.1:3307` |
 
+
+## ---> Docker is optioal
 ### 5. Verify everything is running
 ```bash
 docker compose ps
