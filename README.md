@@ -7,6 +7,7 @@ An intelligent, RAG-powered chatbot for **(MMU)** that answers student and staff
 ## Project Architecture
 
 ```
+Admin_F --> this to local web development environment {LAMPP}
 pjt-chatbot/
 ├── backend/            # FastAPI Python backend (RAG + LLM + REST/WebSocket API)
 ├── Frontend/
